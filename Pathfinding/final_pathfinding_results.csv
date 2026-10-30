@@ -1,0 +1,8 @@
+Obstacle_Level,Algorithm,Path_Found,Path_Length,Nodes_Explored,Runtime_Seconds
+Low (10%),A*,True,28,195.0,0.001416
+Low (10%),Dijkstra,True,28,206.0,0.001267
+Medium (25%),A*,True,28,117.0,0.000817
+Medium (25%),Dijkstra,True,28,172.0,0.00103
+High (35%),A*,True,28,99.0,0.000717
+High (35%),Dijkstra,True,28,131.0,0.00077
+Medium (25%),Q-Learning,True,28,,3.648022
